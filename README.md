@@ -18,10 +18,12 @@
 <li>Third, I learned about different types of headings, and paragraphs in html. Headings including h1 one per page, h2, h3, h4, h5, h6. <p></p> <h1></h1></li>
 <li>Went more in depth with git, such as pulling, adding, pushing, and commits.</li>
 <li>Gained more knowledge into github pages, and github directories through creating one for Odin recipes.</li>
+</ol>
 
 <h2><strong>!! IMPORTANT</strong><h2>
 <ul>
 <li>This project is for learning purposes only</li>
 <li>All recipes are properly cited here and on the recipe pages</li>
 <li>Each image has a correspondent caption citation, and is licensed for free use</li>
+</ul>
 
