@@ -7,7 +7,8 @@
 <p>HTML, and CSS</p>
 <p>Recipes completed</p>
 <li>Tonkotsu Ramen</li>
-<a href="https://glebekitchen.com/tonkotsu-ramen-home/" target="_blank">Recipe Credit- Glebe Kitchen</a>
+
+<a href="https://glebekitchen.com/tonkotsu-ramen-home/" target="_blank">Recipe Credit- Glebe Kitchen</a></ul>
 
 
 <h3>Learning Key Takeaways</h3> 
